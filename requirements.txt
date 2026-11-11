@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+databricks-sdk
+mlflow
+pyspark

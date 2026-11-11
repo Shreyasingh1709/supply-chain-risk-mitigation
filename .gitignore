@@ -1,0 +1,16 @@
+.env
+.venv/
+.venv*/
+__pycache__/
+*.pyc
+*.parquet
+*.avi
+*.csv
+data/
+datasets/
+mlruns/
+artifacts/
+.ipynb_checkpoints/
+
+!sample_data/
+!sample_data/*.csv
